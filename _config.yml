@@ -1,1 +1,2 @@
-baseurl: d:/kaopu
+pygments: true
+permalink: pretty
