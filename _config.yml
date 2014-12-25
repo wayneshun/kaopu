@@ -1,2 +1,6 @@
-pygments: true
-permalink: pretty
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
